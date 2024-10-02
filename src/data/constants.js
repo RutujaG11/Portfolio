@@ -207,8 +207,8 @@ export const projects = [
       
     ],
     category: "web app",
-    github: "https://github.com/SubhojitM46/NotesHub_Frontend",
-    webapp: "https://noteshub-frontend-udae.onrender.com/",
+    github: "https://github.com/RutujaG11/Study2Placement-Frontend",
+    webapp: "https://study2placement-frontend.vercel.app/",
   },
   {
     id: 0,
@@ -220,7 +220,7 @@ export const projects = [
       "https://github.com/SubhojitM46/TravelApp/blob/main/Screenshot%20(231).png?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
-    github: "https://github.com/SubhojitM46/TravelApp",
+    github: "https://github.com/RutujaG11/Travel-App-Frontend.git",
     webapp: "https://travel-app-six-black.vercel.app/",
    
     
@@ -269,7 +269,7 @@ export const projects = [
       "https://github.com/SubhojitM46/weather-app/blob/main/Screenshot%20(234).png?raw=true",
     tags: ["React JS", "MUI", "Weather API"],
     category: "android app",
-    github: "https://github.com/SubhojitM46/weather-app",
+    github: "https://github.com/RutujaG11/Weather-App.git",
     webapp: "https://weather-app2-gl4c.onrender.com/",
   },
   
@@ -283,7 +283,7 @@ export const projects = [
       "https://raw.githubusercontent.com/SubhojitM46/e-shop/main/Screenshot%20(235).png",
     tags: ["React JS", "Redux", "Fake API"],
     category: "android app",
-    github: "https://github.com/SubhojitM46/e-shop",
+    github: "https://github.com/RutujaG11/E-Shop-App",
     webapp: "https://myshop-app-xmj4.onrender.com/",
   },
   {
@@ -296,8 +296,8 @@ export const projects = [
       "https://github.com/RutujaG11/Project_Images/blob/main/Ice-Cream%20Maker%20Image%20(1).png?raw=true",
     tags: ["Html", "Css"],
     category: "machine learning",
-    github: "https://github.com/SubhojitM46/Amazon-Clone",
-    webapp: "https://amazon-clone-iota-ochre.vercel.app/",
+    github: "https://github.com/RutujaG11/IceCream-Maker.git",
+    webapp: "https://ice-cream-maker2.vercel.app/",
   },
   {
     id: 8,
@@ -309,8 +309,8 @@ export const projects = [
       "https://github.com/RutujaG11/Project_Images/blob/main/Restraunt%20App%20Image%20(1).png?raw=true",
     tags: ["Html", "Css","JavaScript"],
     category: "machine learning",
-    github: "https://github.com/SubhojitM46/Tic-Tak-Toe",
-    webapp: "https://tic-tak-toe-umber-tau.vercel.app/",
+    github: "https://github.com/RutujaG11/Restaurant-LandingPage.git",
+    webapp: "https://restaurant-landing-page-navy-omega.vercel.app/",
   },
   // {
   //   id: 8,
